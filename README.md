@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=civita&show_icons=true&theme=dracula&line_height=33&hide_rank=true&hide_title=true">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=civita&show_icons=true&theme=dracula&hide_rank=true&hide=stars&count_private=true&line_height=34">
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
