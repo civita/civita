@@ -1,4 +1,6 @@
-### Hi there 👋
+```shell
+$ echo "Hello, World!" > README.md
+```
 
 <!--
 **civita/civita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
