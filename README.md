@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src="https://github-readme-stats-6bm8ncwq9-civita.vercel.app/api/top-langs/?username=civita&hide=Jupyter%20Notebook,C&langs_count=10&theme=dracula&layout=compact">
+<img align="left" src="https://github-readme-stats-6bm8ncwq9-civita.vercel.app/api/top-langs/?username=civita&hide=Jupyter%20Notebook,C&exclude_repo=AHT_HUGO,ut.nlp.cs388-f21&langs_count=10&theme=dracula&layout=compact">
 </a>
